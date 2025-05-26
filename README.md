@@ -7,7 +7,7 @@ Mind Relaxing Helmet with Alpha Waves A minor project developed under the Depart
 **Guided By:** Dr. K. Sundararaju
 
 
-Abstract: Alpha waves (8–13 Hz) are brain waves linked to a relaxed, wakeful state. Specific alpha wave music can enhance these waves and promote relaxation. The helmet massages acupuncture points on the head, enhancing energy flow and circulation. The integration of massage and alpha wave stimulation elevates relaxation levels. Timed intervals of activity and rest are used to avoid overstimulation.
+**Abstract:** Alpha waves (8–13 Hz) are brain waves linked to a relaxed, wakeful state. Specific alpha wave music can enhance these waves and promote relaxation. The helmet massages acupuncture points on the head, enhancing energy flow and circulation. The integration of massage and alpha wave stimulation elevates relaxation levels. Timed intervals of activity and rest are used to avoid overstimulation.
 Problem Identified High stress levels due to work pressure. Lack of natural relaxation methods during headaches or anxiety. Poor sleep quality and blood circulation. Need for a portable, non-invasive mental relaxation solution.
 
 
@@ -28,7 +28,7 @@ Medical Insight Alpha Waves: Induce calm, focused mental states. Head Massage: I
 **Circuit diagram image**
 ![image](https://github.com/user-attachments/assets/67456938-3e3d-4464-8903-b8e8986301e9)
 
-**
-Hardware implementation image**
+
+**Hardware implementation image**
 ![I3(B4)](https://github.com/user-attachments/assets/c6eaaa2c-71c2-4a94-9df7-d34dff8bf0cd)
 
