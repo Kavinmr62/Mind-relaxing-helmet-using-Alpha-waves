@@ -1,7 +1,7 @@
 Mind Relaxing Helmet with Alpha Waves A minor project developed under the Department of Electronics and Electrical Engineering, this Mind Relaxing Helmet combines head massaging with alpha wave music to promote mental and physical relaxation. The system uses an Arduino-based control unit to time the activation of massage and sound therapy cycles, providing a rhythmic and therapeutic relaxation experience.
 
 
-**Project Members:** Archana J (927621BEE007) Bharath S (927621BEE014) Kavin M R (927621BEE062)
+**Project Members:** Archana J (927621BEE007), Bharath S (927621BEE014), Kavin M R (927621BEE062)
 
 
 **Guided By:** Dr. K. Sundararaju
